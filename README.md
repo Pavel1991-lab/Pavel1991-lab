@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Pavel, a full-time backend developer 👨‍💻 since 2022 🚀</div>  
+### <div align="center">I'm Pavel, a backend developer 👨‍💻 since 2022 🚀</div>  
   
   
 
