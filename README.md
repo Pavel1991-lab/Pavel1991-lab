@@ -50,7 +50,7 @@
  
 ## Connect with me  
 <div align="center">
-<a href="[https://t.me/t.me/Pavel17091991](https://t.me/Pavel17091991)" target="_blank">
+<a href="[https://t.me/Pavel17091991)" target="_blank">
 <img src=https://img.shields.io/badge/telegram-%232CA5E0.svg?&style=for-the-badge&logo=telegram&logoColor=white alt=telegram style="margin-bottom: 5px;" />
 </a>
 </div>  
