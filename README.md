@@ -9,11 +9,10 @@
 ### <div align="center">Привет!👨‍💻  Меня зовут Павел. Я разработчик на Python из Рязани 🚀</div> 
   
 
-- ⚡ "Я завершаю курсы на платформе Skypro по специальности 'Python Developer'. В настоящее время ищу работу, подработку или стажировку!" 
+- ⚡ Я закончил курсы на платформе Skypro по специальности 'Python Developer'. В настоящее время ищу работу, подработку или стажировку! 
   
 
-- ⚡ "I am completing courses on the Skypro platform specializing in 'Python Developer'. Currently, I am looking for a job, part-time work, or an internship!"
-
+- ⚡ I have completed courses on the Skypro platform specializing in Python Development. Currently, I am looking for a job, part-time work, or an internship!
 <br/>  
 
 
